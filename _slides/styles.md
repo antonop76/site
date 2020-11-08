@@ -19,6 +19,7 @@ slides:
   - apple-newton
   - igoefinger
   - chat-bot
-  - Xbox-One-Kinect_160
+  - xbox-one-kinect
+  - wii-remote-image
 ---
 
