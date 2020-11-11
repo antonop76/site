@@ -1,3 +1,4 @@
+---
 author: Apostolos Antonopoulos
 title: "Αναγνώριση χειρονομιών"
 image_url: /images/gesture-recognition.jpg
